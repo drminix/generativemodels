@@ -3,6 +3,6 @@ Generative model is a class of models for unsupervised learning where the goal i
 
 This repository contains ipython notebooks on the following generative models:
 - `autoencoder`
-    1. MNIST_autoencoder: mnist_autoencoder.ipynb
+    1. autoencoder_mnist.ipynb : basic implementation of various autoencoder NN in *keras*
     
 - `Generative Adversarial Networks (GAN)`
