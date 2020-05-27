@@ -5,4 +5,4 @@ This repository contains ipython notebooks on the following generative models:
 - `autoencoder`
     1. MNIST_autoencoder: mnist_autoencoder.ipynb
     
-- `Generative Adversarial Networks (GAN)
+- `Generative Adversarial Networks (GAN)`
