@@ -7,3 +7,4 @@ This repository contains ipython notebooks on the following generative models:
     2. variational_mnist.ipynb : implementation of variational autoencoder model using fashion MNIST dataset. Variational autoencoder is a probabilistic autoencoder & generative model.
     
 - `Generative Adversarial Networks (GAN)`
+    1. GAM.ipynb: implementation of GAN, DCGAN models for fashion MNIST dataset
